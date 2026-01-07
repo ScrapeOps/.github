@@ -1,7 +1,7 @@
 # 🕷️ ScrapeOps
 
 **ScrapeOps** is a platform that makes web scraping easier to build, run, and scale.  
-It brings together proxy routing, parsing, monitoring, scheduling, and structured data so you can focus on extracting insights instead of managing tooling. :contentReference[oaicite:0]{index=0}
+It brings together proxy routing, parsing, monitoring, scheduling, and structured data so you can focus on extracting insights instead of managing tooling.
 
 🔗 **Website:** [scrapeops.io](https://scrapeops.io)  
 📚 **Docs:** [scrapeops.io/docs](https://scrapeops.io/docs)  
@@ -19,7 +19,7 @@ ScrapeOps is built for developers and data teams who want **production-ready scr
 - ⏱️ Schedule and manage scraping jobs
 - 📦 Access structured APIs for popular sites
 
-All products are **API-first** and usable independently or together. :contentReference[oaicite:1]{index=1}
+All products are **API-first** and usable independently or together.
 
 ---
 
@@ -29,7 +29,7 @@ All products are **API-first** and usable independently or together. :contentRef
 Access 15+ smart proxy providers through a **single API endpoint**.  
 Automatically handles proxy selection and rotation so you never worry about blocks or bans.
 
-👉 [Proxy API Aggregator Docs](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/) :contentReference[oaicite:2]{index=2}
+👉 [Proxy API Aggregator Docs](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/)
 
 ---
 
@@ -37,7 +37,7 @@ Automatically handles proxy selection and rotation so you never worry about bloc
 Get residential and mobile IPs from top proxy providers with one **proxy port**.  
 Great for sites with strict anti-bot defenses.
 
-👉 [Residential & Mobile Proxy Docs](https://scrapeops.io/docs/residential-mobile-proxy-aggregator/overview/) :contentReference[oaicite:3]{index=3}
+👉 [Residential & Mobile Proxy Docs](https://scrapeops.io/docs/residential-mobile-proxy-aggregator/overview/)
 
 ---
 
@@ -45,7 +45,7 @@ Great for sites with strict anti-bot defenses.
 Turn unstructured HTML into **structured JSON** using maintained parsers.  
 Save time on writing and fixing scraping selectors.
 
-👉 [Parser API Docs](https://scrapeops.io/parser-api/) :contentReference[oaicite:4]{index=4}
+👉 [Parser API Docs](https://scrapeops.io/parser-api/)
 
 ---
 
@@ -60,14 +60,14 @@ Pull ready-made data from popular sites like Amazon, Walmart, and eBay without b
 Track scraper runs, errors, and success rates with built-in monitoring.  
 Set alerts for failures or anomalies.
 
-👉 [Monitoring Docs](https://scrapeops.io/docs/monitoring/overview/) :contentReference[oaicite:6]{index=6}
+👉 [Monitoring Docs](https://scrapeops.io/docs/monitoring/overview/)
 
 ---
 
 ### ⏰ Job Scheduling & Servers
 Connect your servers, deploy code, and schedule jobs from the dashboard.
 
-👉 [Job Scheduling Docs](https://scrapeops.io/docs/servers-scheduling/overview/) :contentReference[oaicite:7]{index=7}
+👉 [Job Scheduling Docs](https://scrapeops.io/docs/servers-scheduling/overview/)
 
 ---
 
